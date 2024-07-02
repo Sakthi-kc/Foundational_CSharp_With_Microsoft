@@ -1,4 +1,4 @@
-# Foundational_C-_With_Microsoft
+# Foundational_C#_With_Microsoft
 
 Learning Path: https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/
 Pushing to github:
