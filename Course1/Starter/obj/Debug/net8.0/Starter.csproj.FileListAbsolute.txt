@@ -1,0 +1,14 @@
+c:\Users\kcsak\Documents\C# Fundamentals\CalculateGPA\Starter\bin\Debug\net8.0\Starter.exe
+c:\Users\kcsak\Documents\C# Fundamentals\CalculateGPA\Starter\bin\Debug\net8.0\Starter.deps.json
+c:\Users\kcsak\Documents\C# Fundamentals\CalculateGPA\Starter\bin\Debug\net8.0\Starter.runtimeconfig.json
+c:\Users\kcsak\Documents\C# Fundamentals\CalculateGPA\Starter\bin\Debug\net8.0\Starter.dll
+c:\Users\kcsak\Documents\C# Fundamentals\CalculateGPA\Starter\bin\Debug\net8.0\Starter.pdb
+c:\Users\kcsak\Documents\C# Fundamentals\CalculateGPA\Starter\obj\Debug\net8.0\Starter.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\kcsak\Documents\C# Fundamentals\CalculateGPA\Starter\obj\Debug\net8.0\Starter.AssemblyInfoInputs.cache
+c:\Users\kcsak\Documents\C# Fundamentals\CalculateGPA\Starter\obj\Debug\net8.0\Starter.AssemblyInfo.cs
+c:\Users\kcsak\Documents\C# Fundamentals\CalculateGPA\Starter\obj\Debug\net8.0\Starter.csproj.CoreCompileInputs.cache
+c:\Users\kcsak\Documents\C# Fundamentals\CalculateGPA\Starter\obj\Debug\net8.0\Starter.dll
+c:\Users\kcsak\Documents\C# Fundamentals\CalculateGPA\Starter\obj\Debug\net8.0\refint\Starter.dll
+c:\Users\kcsak\Documents\C# Fundamentals\CalculateGPA\Starter\obj\Debug\net8.0\Starter.pdb
+c:\Users\kcsak\Documents\C# Fundamentals\CalculateGPA\Starter\obj\Debug\net8.0\Starter.genruntimeconfig.cache
+c:\Users\kcsak\Documents\C# Fundamentals\CalculateGPA\Starter\obj\Debug\net8.0\ref\Starter.dll

@@ -1,0 +1,14 @@
+c:\Users\kcsak\Documents\C# Fundamentals\CalculateGPA\CreditHours\bin\Debug\net8.0\CreditHours.exe
+c:\Users\kcsak\Documents\C# Fundamentals\CalculateGPA\CreditHours\bin\Debug\net8.0\CreditHours.deps.json
+c:\Users\kcsak\Documents\C# Fundamentals\CalculateGPA\CreditHours\bin\Debug\net8.0\CreditHours.runtimeconfig.json
+c:\Users\kcsak\Documents\C# Fundamentals\CalculateGPA\CreditHours\bin\Debug\net8.0\CreditHours.dll
+c:\Users\kcsak\Documents\C# Fundamentals\CalculateGPA\CreditHours\bin\Debug\net8.0\CreditHours.pdb
+c:\Users\kcsak\Documents\C# Fundamentals\CalculateGPA\CreditHours\obj\Debug\net8.0\CreditHours.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\kcsak\Documents\C# Fundamentals\CalculateGPA\CreditHours\obj\Debug\net8.0\CreditHours.AssemblyInfoInputs.cache
+c:\Users\kcsak\Documents\C# Fundamentals\CalculateGPA\CreditHours\obj\Debug\net8.0\CreditHours.AssemblyInfo.cs
+c:\Users\kcsak\Documents\C# Fundamentals\CalculateGPA\CreditHours\obj\Debug\net8.0\CreditHours.csproj.CoreCompileInputs.cache
+c:\Users\kcsak\Documents\C# Fundamentals\CalculateGPA\CreditHours\obj\Debug\net8.0\CreditHours.dll
+c:\Users\kcsak\Documents\C# Fundamentals\CalculateGPA\CreditHours\obj\Debug\net8.0\refint\CreditHours.dll
+c:\Users\kcsak\Documents\C# Fundamentals\CalculateGPA\CreditHours\obj\Debug\net8.0\CreditHours.pdb
+c:\Users\kcsak\Documents\C# Fundamentals\CalculateGPA\CreditHours\obj\Debug\net8.0\CreditHours.genruntimeconfig.cache
+c:\Users\kcsak\Documents\C# Fundamentals\CalculateGPA\CreditHours\obj\Debug\net8.0\ref\CreditHours.dll
