@@ -1,0 +1,15 @@
+C:\Users\kcsak\OneDrive\Documents\C# Fundamentals\Course3\ContosoPetApp\obj\Debug\net8.0\ContosoPetApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kcsak\OneDrive\Documents\C# Fundamentals\Course3\ContosoPetApp\obj\Debug\net8.0\ContosoPetApp.AssemblyInfoInputs.cache
+C:\Users\kcsak\OneDrive\Documents\C# Fundamentals\Course3\ContosoPetApp\obj\Debug\net8.0\ContosoPetApp.AssemblyInfo.cs
+C:\Users\kcsak\OneDrive\Documents\C# Fundamentals\Course3\ContosoPetApp\obj\Debug\net8.0\ContosoPetApp.csproj.CoreCompileInputs.cache
+C:\Users\kcsak\OneDrive\Documents\C# Fundamentals\Course3\ContosoPetApp\obj\Debug\net8.0\ContosoPetApp.sourcelink.json
+C:\Users\kcsak\OneDrive\Documents\C# Fundamentals\Course3\ContosoPetApp\bin\Debug\net8.0\ContosoPetApp.exe
+C:\Users\kcsak\OneDrive\Documents\C# Fundamentals\Course3\ContosoPetApp\bin\Debug\net8.0\ContosoPetApp.deps.json
+C:\Users\kcsak\OneDrive\Documents\C# Fundamentals\Course3\ContosoPetApp\bin\Debug\net8.0\ContosoPetApp.runtimeconfig.json
+C:\Users\kcsak\OneDrive\Documents\C# Fundamentals\Course3\ContosoPetApp\bin\Debug\net8.0\ContosoPetApp.dll
+C:\Users\kcsak\OneDrive\Documents\C# Fundamentals\Course3\ContosoPetApp\bin\Debug\net8.0\ContosoPetApp.pdb
+C:\Users\kcsak\OneDrive\Documents\C# Fundamentals\Course3\ContosoPetApp\obj\Debug\net8.0\ContosoPetApp.dll
+C:\Users\kcsak\OneDrive\Documents\C# Fundamentals\Course3\ContosoPetApp\obj\Debug\net8.0\refint\ContosoPetApp.dll
+C:\Users\kcsak\OneDrive\Documents\C# Fundamentals\Course3\ContosoPetApp\obj\Debug\net8.0\ContosoPetApp.pdb
+C:\Users\kcsak\OneDrive\Documents\C# Fundamentals\Course3\ContosoPetApp\obj\Debug\net8.0\ContosoPetApp.genruntimeconfig.cache
+C:\Users\kcsak\OneDrive\Documents\C# Fundamentals\Course3\ContosoPetApp\obj\Debug\net8.0\ref\ContosoPetApp.dll
