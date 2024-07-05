@@ -1,0 +1,15 @@
+c:\Users\kcsak\OneDrive\Documents\C# Fundamentals\Course4\searchPet\bin\Debug\net8.0\searchPet.exe
+c:\Users\kcsak\OneDrive\Documents\C# Fundamentals\Course4\searchPet\bin\Debug\net8.0\searchPet.deps.json
+c:\Users\kcsak\OneDrive\Documents\C# Fundamentals\Course4\searchPet\bin\Debug\net8.0\searchPet.runtimeconfig.json
+c:\Users\kcsak\OneDrive\Documents\C# Fundamentals\Course4\searchPet\bin\Debug\net8.0\searchPet.dll
+c:\Users\kcsak\OneDrive\Documents\C# Fundamentals\Course4\searchPet\bin\Debug\net8.0\searchPet.pdb
+c:\Users\kcsak\OneDrive\Documents\C# Fundamentals\Course4\searchPet\obj\Debug\net8.0\searchPet.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\kcsak\OneDrive\Documents\C# Fundamentals\Course4\searchPet\obj\Debug\net8.0\searchPet.AssemblyInfoInputs.cache
+c:\Users\kcsak\OneDrive\Documents\C# Fundamentals\Course4\searchPet\obj\Debug\net8.0\searchPet.AssemblyInfo.cs
+c:\Users\kcsak\OneDrive\Documents\C# Fundamentals\Course4\searchPet\obj\Debug\net8.0\searchPet.csproj.CoreCompileInputs.cache
+c:\Users\kcsak\OneDrive\Documents\C# Fundamentals\Course4\searchPet\obj\Debug\net8.0\searchPet.sourcelink.json
+c:\Users\kcsak\OneDrive\Documents\C# Fundamentals\Course4\searchPet\obj\Debug\net8.0\searchPet.dll
+c:\Users\kcsak\OneDrive\Documents\C# Fundamentals\Course4\searchPet\obj\Debug\net8.0\refint\searchPet.dll
+c:\Users\kcsak\OneDrive\Documents\C# Fundamentals\Course4\searchPet\obj\Debug\net8.0\searchPet.pdb
+c:\Users\kcsak\OneDrive\Documents\C# Fundamentals\Course4\searchPet\obj\Debug\net8.0\searchPet.genruntimeconfig.cache
+c:\Users\kcsak\OneDrive\Documents\C# Fundamentals\Course4\searchPet\obj\Debug\net8.0\ref\searchPet.dll
