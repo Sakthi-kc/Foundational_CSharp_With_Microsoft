@@ -1,0 +1,15 @@
+C:\Users\kcsak\OneDrive\Documents\C# Fundamentals\Course5\school_ZooVisit\obj\Debug\net8.0\school_ZooVisit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kcsak\OneDrive\Documents\C# Fundamentals\Course5\school_ZooVisit\obj\Debug\net8.0\school_ZooVisit.AssemblyInfoInputs.cache
+C:\Users\kcsak\OneDrive\Documents\C# Fundamentals\Course5\school_ZooVisit\obj\Debug\net8.0\school_ZooVisit.AssemblyInfo.cs
+C:\Users\kcsak\OneDrive\Documents\C# Fundamentals\Course5\school_ZooVisit\obj\Debug\net8.0\school_ZooVisit.csproj.CoreCompileInputs.cache
+C:\Users\kcsak\OneDrive\Documents\C# Fundamentals\Course5\school_ZooVisit\obj\Debug\net8.0\school_ZooVisit.sourcelink.json
+C:\Users\kcsak\OneDrive\Documents\C# Fundamentals\Course5\school_ZooVisit\bin\Debug\net8.0\school_ZooVisit.exe
+C:\Users\kcsak\OneDrive\Documents\C# Fundamentals\Course5\school_ZooVisit\bin\Debug\net8.0\school_ZooVisit.deps.json
+C:\Users\kcsak\OneDrive\Documents\C# Fundamentals\Course5\school_ZooVisit\bin\Debug\net8.0\school_ZooVisit.runtimeconfig.json
+C:\Users\kcsak\OneDrive\Documents\C# Fundamentals\Course5\school_ZooVisit\bin\Debug\net8.0\school_ZooVisit.dll
+C:\Users\kcsak\OneDrive\Documents\C# Fundamentals\Course5\school_ZooVisit\bin\Debug\net8.0\school_ZooVisit.pdb
+C:\Users\kcsak\OneDrive\Documents\C# Fundamentals\Course5\school_ZooVisit\obj\Debug\net8.0\school_ZooVisit.dll
+C:\Users\kcsak\OneDrive\Documents\C# Fundamentals\Course5\school_ZooVisit\obj\Debug\net8.0\refint\school_ZooVisit.dll
+C:\Users\kcsak\OneDrive\Documents\C# Fundamentals\Course5\school_ZooVisit\obj\Debug\net8.0\school_ZooVisit.pdb
+C:\Users\kcsak\OneDrive\Documents\C# Fundamentals\Course5\school_ZooVisit\obj\Debug\net8.0\school_ZooVisit.genruntimeconfig.cache
+C:\Users\kcsak\OneDrive\Documents\C# Fundamentals\Course5\school_ZooVisit\obj\Debug\net8.0\ref\school_ZooVisit.dll

@@ -1,0 +1,15 @@
+c:\Users\kcsak\OneDrive\Documents\C# Fundamentals\Course5\foodConsumeGame\bin\Debug\net8.0\foodConsumeGame.exe
+c:\Users\kcsak\OneDrive\Documents\C# Fundamentals\Course5\foodConsumeGame\bin\Debug\net8.0\foodConsumeGame.deps.json
+c:\Users\kcsak\OneDrive\Documents\C# Fundamentals\Course5\foodConsumeGame\bin\Debug\net8.0\foodConsumeGame.runtimeconfig.json
+c:\Users\kcsak\OneDrive\Documents\C# Fundamentals\Course5\foodConsumeGame\bin\Debug\net8.0\foodConsumeGame.dll
+c:\Users\kcsak\OneDrive\Documents\C# Fundamentals\Course5\foodConsumeGame\bin\Debug\net8.0\foodConsumeGame.pdb
+c:\Users\kcsak\OneDrive\Documents\C# Fundamentals\Course5\foodConsumeGame\obj\Debug\net8.0\foodConsumeGame.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\kcsak\OneDrive\Documents\C# Fundamentals\Course5\foodConsumeGame\obj\Debug\net8.0\foodConsumeGame.AssemblyInfoInputs.cache
+c:\Users\kcsak\OneDrive\Documents\C# Fundamentals\Course5\foodConsumeGame\obj\Debug\net8.0\foodConsumeGame.AssemblyInfo.cs
+c:\Users\kcsak\OneDrive\Documents\C# Fundamentals\Course5\foodConsumeGame\obj\Debug\net8.0\foodConsumeGame.csproj.CoreCompileInputs.cache
+c:\Users\kcsak\OneDrive\Documents\C# Fundamentals\Course5\foodConsumeGame\obj\Debug\net8.0\foodConsumeGame.sourcelink.json
+c:\Users\kcsak\OneDrive\Documents\C# Fundamentals\Course5\foodConsumeGame\obj\Debug\net8.0\foodConsumeGame.dll
+c:\Users\kcsak\OneDrive\Documents\C# Fundamentals\Course5\foodConsumeGame\obj\Debug\net8.0\refint\foodConsumeGame.dll
+c:\Users\kcsak\OneDrive\Documents\C# Fundamentals\Course5\foodConsumeGame\obj\Debug\net8.0\foodConsumeGame.pdb
+c:\Users\kcsak\OneDrive\Documents\C# Fundamentals\Course5\foodConsumeGame\obj\Debug\net8.0\foodConsumeGame.genruntimeconfig.cache
+c:\Users\kcsak\OneDrive\Documents\C# Fundamentals\Course5\foodConsumeGame\obj\Debug\net8.0\ref\foodConsumeGame.dll
