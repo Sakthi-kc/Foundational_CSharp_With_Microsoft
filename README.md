@@ -7,7 +7,7 @@ Pushing to github:
     $ git config --global user.name "John Doe"
     $ git config --global user.email johndoe@example.com
   c. cd /path/to/your/project  //If special characters present, place the path in ""
-     git init
+     Choose git bash in terminal and git init
   d. In VS code, goto Source Terminal icon -> click on + to commit all -> Enter commit message -> Ctrl+Enter
   or
   d. git add .
