@@ -15,4 +15,6 @@ Pushing to github:
   e. Login to github, create a repository and copy the HTTPS URL
   f. In VSCode terminal, git remote add origin https://github.com/username/repository.git
   g. Then git push -u origin master - Authenticate github sign-in
+  or
+  g. To push changes to main branch, beforin git remote type git branch -M main and then git push -u origin main
   h. All the code changes are pushed to master branch
