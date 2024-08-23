@@ -8,9 +8,10 @@ Pushing to github:
     $ git config --global user.email johndoe@example.com
   3. cd /path/to/your/project  //If special characters present, place the path in ""
      Choose git bash in terminal and git init
-  4. In VS code, goto Source Terminal icon -> click on + to commit all -> Enter commit message -> Ctrl+Enter
-  or
-  4. git add .
+  4. In VS code,
+     + goto Source Terminal icon -> click on + to commit all -> Enter commit message -> Ctrl+Enter
+  **or**
+     + git add .
      git commit -m "Initial commit"
   5. Login to github, create a repository and copy the HTTPS URL
   6. In VSCode terminal, git remote add origin https://github.com/username/repository.git
